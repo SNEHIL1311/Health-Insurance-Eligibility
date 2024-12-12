@@ -74,11 +74,6 @@ Feel free to fork this repository, make changes, and submit pull requests. Contr
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
 
----
 
-## **Contact**
-If you have any questions or feedback, please reach out at your-email@example.com.
 
