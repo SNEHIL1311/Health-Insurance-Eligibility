@@ -1,0 +1,1 @@
+export const  LOGO_URL = "https://img.freepik.com/premium-vector/health-insurance-logo_880781-2123.jpg";
